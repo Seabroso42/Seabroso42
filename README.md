@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.JS - Java - TypeScript**
 
-- 📫 How to reach me **arthurgs.seabra@gmail.com**
+- 📫 How to reach me: **arthurgs.seabra@gmail.com**
 
 - ⚡ Fun fact **i used to be an artist before learning how to code**
 
