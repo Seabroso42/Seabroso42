@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arthur Seabra</h1>
-<h3 align="center">A Beginner Full-stack developer, mostly skilled at front-end but too ambitious to hold myself from learning back-end</h3>
+<h3 align="center">A Beginner Full-stack developer, focusing on ideas before stacks, honestly, i just want to build some cool stuff</h3>
 
 - 🌱 I’m currently learning **Node.JS - C++ - Spring - Kotlin**
 
