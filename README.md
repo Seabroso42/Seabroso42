@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Arthur Seabra</h1>
 <h3 align="center">A Beginner Full-stack developer, mostly skilled at front-end but too ambitious to hold myself from learning back-end</h3>
 
-- 🌱 I’m currently learning **Node.JS - Java - TypeScript**
+- 🌱 I’m currently learning **Node.JS - C++ - Spring - Kotlin**
 
 - 📫 How to reach me: **arthurgs.seabra@gmail.com**
 
-- ⚡ Fun fact **i used to be an artist before learning how to code**
+- ⚡ Fun fact: **i used to be an artist before learning how to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
